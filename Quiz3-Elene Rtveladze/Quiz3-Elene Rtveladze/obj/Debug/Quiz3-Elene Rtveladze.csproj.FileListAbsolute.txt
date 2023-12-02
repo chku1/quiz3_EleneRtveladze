@@ -1,0 +1,7 @@
+C:\Users\Chku\source\repos\Quiz3-Elene Rtveladze\Quiz3-Elene Rtveladze\obj\Debug\Quiz3-Elene Rtveladze.csproj.AssemblyReference.cache
+C:\Users\Chku\source\repos\Quiz3-Elene Rtveladze\Quiz3-Elene Rtveladze\obj\Debug\Quiz3-Elene Rtveladze.csproj.CoreCompileInputs.cache
+C:\Users\Chku\source\repos\Quiz3-Elene Rtveladze\Quiz3-Elene Rtveladze\bin\Debug\Quiz3-Elene Rtveladze.exe.config
+C:\Users\Chku\source\repos\Quiz3-Elene Rtveladze\Quiz3-Elene Rtveladze\bin\Debug\Quiz3-Elene Rtveladze.exe
+C:\Users\Chku\source\repos\Quiz3-Elene Rtveladze\Quiz3-Elene Rtveladze\bin\Debug\Quiz3-Elene Rtveladze.pdb
+C:\Users\Chku\source\repos\Quiz3-Elene Rtveladze\Quiz3-Elene Rtveladze\obj\Debug\Quiz3-Elene Rtveladze.exe
+C:\Users\Chku\source\repos\Quiz3-Elene Rtveladze\Quiz3-Elene Rtveladze\obj\Debug\Quiz3-Elene Rtveladze.pdb
